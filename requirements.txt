@@ -1,0 +1,4 @@
+torch=2.2.2
+torchvision=2.2.2
+torchaudio=0.17.2
+loguru=0.7.2
